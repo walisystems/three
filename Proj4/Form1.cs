@@ -19,7 +19,7 @@ namespace Proj4
 
         private void Form1_Load(object sender, EventArgs e)
         {
-            MessageBox.Show("does it work now?");
+            MessageBox.Show("new message");
         }
     }
 }
